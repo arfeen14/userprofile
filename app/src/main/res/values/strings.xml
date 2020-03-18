@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">User Profile</string>
+    <string name="button">Button</string>
+    <string name="description">Description</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="open_picture_gallary">Open picture Gallary</string>
+    <string name="confirm">Confirm</string>
+    <string name="first_name_1">First Name</string>
+    <string name="last_name_1">Last Name</string>
+
+    <string name="name">%1$s %2$s</string>
+    <string name="first_and_last_name">first and last name</string>
+    <string name="descript">descript</string>
+</resources>
